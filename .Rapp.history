@@ -1,0 +1,31 @@
+install.packages(c("slidify", "ggplot2", "devtools"))
+library(ggplot2)
+search()
+install.packages(c("KernSmooth""))
+exit
+q
+quit
+> install.packages(c("KernSmooth"))
+demo()
+install.packages(c("KernSmooth"))
+library(KernSmooth)
+install.packages(c("slidify", "ggplot2", "devtools"))
+library(ggplot2)
+install.packages(c("ggplot2"))
+library(ggplot2)
+install.packages(c("ggplot2"))
+library(ggplot2)
+library (ggplot2)
+exit
+quit
+install.packages(c("ggplot2"))
+library (ggplot2)
+install.packages(c("slidify","devtools"))
+library (slidify)
+library (devtools)
+install.packages(c("slidify"))
+install.packages("KernSmooth")
+library(KernSmooth)
+source("/Users/rickwrites/Dropbox/Data-Science/Coursera/DS-03-Getting-Cleaning-Data/Quiz-02.R")
+ls()
+source("/Users/rickwrites/Dropbox/Data-Science/Coursera/DS-03-Getting-Cleaning-Data/Quiz-02.R")
